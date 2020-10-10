@@ -39,6 +39,14 @@
 .projects-grid {
   display: flex;
 }
+/* resume page css */
+.resume-right-col {
+  background: #27221f;
+  color: white;
+  padding: 2em;
+}
+
+/* resume page css */
 
 /* contact page css */
 .contact-body {
